@@ -1,4 +1,4 @@
-# M3AE
+# ARL
 
 This is the implementation of [Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge](https://arxiv.org/abs/2209.07118) at ACMMM-2022.
 
