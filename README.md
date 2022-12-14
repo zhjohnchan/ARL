@@ -150,17 +150,6 @@ Now you can start to fine-tune the arl model:
 bash run_scripts/finetune_arl.sh
 ```
 
-### 4. Test
-
-You can start to test our fine-tuned models directly:
-
-```angular2
-bash run_scripts/test_arl.sh
-```
-
-NOET: This is a good way to check whether your environment is set up in the same way as ours (if you can reproduce the
-same results).
-
 ## Acknowledgement
 
 The code is based on [OpenKE](https://github.com/thunlp/OpenKE), [ViLT](https://github.com/dandelin/ViLT)
